@@ -1,0 +1,165 @@
+[
+    {
+      "id": 1,
+      "image": "/images/red.png",
+      "names": "AIR JORDAN BASKETBALL",
+      "price": "150$"
+    },
+    {
+      "id": 2,
+      "image": "/images/white.png",
+      "names": "NIKE AIR MAX",
+      "price": "100$"
+    },
+    {
+      "id": 3,
+      "image": "/images/green.png",
+      "names": "AIR FORCE 1 BUCKS",
+      "price": "250$"
+    },
+    {
+      "id": 4,
+      "image": "/image/1.png",
+      "names": "Nike Air Max Bliss",
+      "price": "130$"
+    },
+    {
+      "id": 5,
+      "image": "/image/2.png",
+      "names": "Nike Air Vapormax",
+      "price": "210$"
+    },
+    {
+      "id": 6,
+      "image": "/image/3.png",
+      "names": "Nike Air Terrascape",
+      "price": "150$"
+    },
+    {
+      "id": 7,
+      "image": "/image/4.png",
+      "names": "Nike Air Max '06",
+      "price": "130$"
+    },
+    {
+      "id": 8,
+      "image": "/image/5.png",
+      "names": "Nike Air Dia",
+      "price": "98$"
+    },
+    {
+      "id": 9,
+      "image": "/image/6.png",
+      "names": "Nike Air Force 1 '07",
+      "price": "110$"
+    },
+    {
+      "id": 10,
+      "image": "/image/7.png",
+      "names": "Nike Air Dia Clash",
+      "price": "65$"
+    },
+    {
+      "id": 11,
+      "image": "/image/8.png",
+      "names": "AIR FORCE 1 BUCKS",
+      "price": "250$"
+    },
+    {
+      "id": 12,
+      "image": "/image/9.png",
+      "names": "AIR FORCE 1 BUCKS",
+      "price": "250$"
+    },
+    {
+      "id": 13,
+      "image": "/image/10.png",
+      "names": "Nike Air Force 1 LV8",
+      "price": "95$"
+    },
+    {
+      "id": 14,
+      "image": "/image/11.png",
+      "names": "AIR FORCE 1 BUCKS",
+      "price": "250$"
+    },
+    {
+      "id": 15,
+      "image": "/image/12.png",
+      "names": "AIR FORCE 1 BUCKS",
+      "price": "250$"
+    },
+    {
+      "id": 16,
+      "image": "/image/13.png",
+      "names": "AIR FORCE 1 BUCKS",
+      "price": "250$"
+    },
+    {
+      "id": 17,
+      "image": "/image/14.png",
+      "names": "AIR FORCE 1 BUCKS",
+      "price": "250$"
+    },
+    {
+      "id": 18,
+      "image": "/image/15.png",
+      "names": "AIR FORCE 1 BUCKS",
+      "price": "250$"
+    },
+    {
+      "id": 19,
+      "image": "/image/16.png",
+      "names": "AIR FORCE 1 BUCKS",
+      "price": "250$"
+    },
+    {
+      "id": 20,
+      "image": "/image/17.png",
+      "names": "AIR FORCE 1 BUCKS",
+      "price": "250$"
+    },
+    {
+      "id": 21,
+      "image": "/image/18.png",
+      "names": "AIR FORCE 1 BUCKS",
+      "price": "250$"
+    },
+    {
+      "id": 22,
+      "image": "/image/19.png",
+      "names": "Air Jordan 13 Retro",
+      "price": "200$"
+    },
+    {
+      "id": 23,
+      "image": "/image/20.png",
+      "names": "AIR FORCE 1 BUCKS",
+      "price": "250$"
+    },
+    {
+      "id": 24,
+      "image": "/image/21.png",
+      "names": "Nike Air Max Excee",
+      "price": "100$"
+    },
+    {
+      "id": 25,
+      "image": "/image/22.png",
+      "names": "Nike Flyknit Racer",
+      "price": "160$"
+    },
+    {
+      "id": 26,
+      "image": "/image/23.png",
+      "names": "Nike More Uptempo",
+      "price": "150$"
+    },
+    {
+      "id": 27,
+      "image": "/image/24.png",
+      "names": "AIR FORCE 1 BUCKS",
+      "price": "150$"
+    }
+  ]
+  

@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "image": "/img/range.png",
+      "names": "Range Rover Sport 2020",
+      "Rans": "HWY / City",
+      "Rate": "4.3 out of 5.0"
+    },
+    {
+      "id": 2,
+      "image": "/img/mercedes.png",
+      "names": "Mercedes-Benz G 550 SUV G wagon",
+      "Rans": "HWY / City",
+      "Rate": "4 out of 5.0"
+    },
+    {
+      "id": 3,
+      "image": "/img/lexus.png",
+      "names": "2020 Lexus GX Lexus",
+      "Rans": "Starting at",
+      "Rate": "4 out of 5.0"
+    },
+    {
+      "id": 4,
+      "image": "/img/porsche.png",
+      "names": "2020 Porsche Panamera Turbo 2020 PORSCHE PANAMERA",
+      "Rans": "Starting at",
+      "Rate": "4 out of 5.0"
+    },
+    {
+      "id": 5,
+      "image": " /img/honda.png",
+      "names": "2020 Honda CR-V Touring",
+      "Rans": "HWY / City",
+      "Rate": "3.8 out of 5.0"
+    },
+    {
+      "id": 6,
+      "image": "/img/prado.jpg",
+      "names": "TOYOTA LAND CRUISER PRADO 2020 TOYOTA PRADO",
+      "Rans": "Starting at",
+      "Rate": "4 out of 5.0"
+    },
+    {
+      "id": 7,
+      "image": "/img/rover.jpg",
+      "names": "2020 Land Rover Defender 90 AWD 2020 LAND ROVER",
+      "Rans": "Starting at",
+      "Rate": "5 out of 5.0"
+    },
+    {
+      "id": 8,
+      "image": "/img/tundra.png",
+      "names": "2020 Toyota Tundra RWD 2020 Toyota Tundra",
+      "Rans": "HWY / City",
+      "Rate": "4.3 out of 5.0"
+    }
+  ]
+  

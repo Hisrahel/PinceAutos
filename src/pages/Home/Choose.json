@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "image": "/image/ch.png",
+      "name": "MERCEDES-BENZ CLASS A AMG 35",
+      "subname": "2020 Sedan New",
+      "price": "$35,090"
+    },
+    {
+        "id": 2,
+        "image": "/image/g-class.png",
+        "name": "MERCEDES-BENZ G-CLASS",
+        "subname": "2020 SUV New",
+        "price": "$25,900"
+    },
+    {
+        "id": 3,
+        "image": "/image/journey.png",
+        "name": "DODGE JOURNEY",
+        "subname": "2020 SUV New",
+        "price": "$12,000"
+    },
+    {
+        "id": 4,
+        "image": "/image/durango.png",
+        "name": "DODGE DURANGO",
+        "subname": "2020 SUV New",
+        "price": "$18,840"
+    },
+    {
+        "id": 5,
+        "image": "/image/sedan.png",
+        "name": "DODGE CHARGER",
+        "subname": "2020 Sedan New",
+        "price": "$8,121"
+    },
+    {
+        "id": 6,
+        "image": "/image/muscle.png",
+        "name": "DODGE CHALLENGER",
+        "subname": "2020 Muscle Car New",
+        "price": "$10,060"
+    }
+  ]
+
+ 
